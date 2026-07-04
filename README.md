@@ -1,4 +1,4 @@
-# Hi there, I'm Abhijeet DJ 👋
+# Hi there, I'm Abhijeet-DJ 👋
 
 Welcome to my GitHub profile! I'm a **Software Engineer & CTO** passionate about building scalable, robust, and well-architected solutions using the **MERN stack** and modern DevOps practices.
 
